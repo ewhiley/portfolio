@@ -1,6 +1,5 @@
 # Portfolio
-Repository for portfolio project. 
-
+Repository for portfolio project.
 This project was to build a portfolio website to showcase myself as an aspiring developer. 
 
 ## Published portfolio website
@@ -15,7 +14,7 @@ https://github.com/ewhiley/portfolio
 Date | Project task
 ------------ | -------------
 Tuesday 19 March | Complete moodboard, wireframes, set up github repo and trello board
-Wedensday 20 March | Website development and complete design documentation
+Wednesday 20 March | Website development and complete design documentation
 Thursday 21 March | Website development and complete description of website
 Friday 22 March | Deployment, testing, completion of Readme
 Sat 23 & Sun 24 March | Presentation and upload
