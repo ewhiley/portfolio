@@ -3,7 +3,6 @@ Repository for portfolio project.
 
 This project was to build a portfolio website to showcase myself as an aspiring developer. 
 
-
 ## Published portfolio website
 
 
@@ -22,7 +21,18 @@ Friday 22 March | Deployment, testing, completion of Readme
 Sat 23 & Sun 24 March | Presentation and upload
 
 ### Screenshots of Trello board(s)
+The Trello board helped me keep track of all the tasks required for the assessment. 
 
+![Image of Trello board showing tasks underway, completed and yet to be completed](https://octodex.github.com/images/yaktocat.png)
+
+
+## Design documentation
+### Design process
+### Mood board
+### Colour schemes
+### Fonts
+### Wireframes
+### Usability considerations
 
 
 ## Description of the website
@@ -33,13 +43,6 @@ Sat 23 & Sun 24 March | Presentation and upload
 ### Target audience
 ### Tech stack (e.g. html, css, deployment platform, etc)
 
-## Design documentation
-### Design process
-### Mood board
-### Colour schemes
-### Fonts
-### Wireframes
-### Usability considerations
 
 
 ## Short Answer Q&A - Include short answers to the following questions,
