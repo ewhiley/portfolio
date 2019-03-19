@@ -19,8 +19,11 @@ https://github.com/ewhiley/portfolio
 ### Target audience
 ### Tech stack (e.g. html, css, deployment platform, etc)
 
-## Design documentation including,
+## Design documentation
 ### Design process
+### Mood board
+### Colour schemes
+### Fonts
 ### Wireframes
 ### Usability considerations
 
