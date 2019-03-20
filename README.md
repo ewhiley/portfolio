@@ -66,6 +66,10 @@ To fit in with the themes discussed above, I've chosen fonts that are strong, si
 
 ### Wireframes
 
+The wireframes were created in Figma. I created wireframes for both the homepage and content page (sub-page) template, covering three screen sizes - Desktop, Tablet and phone. The tablet and phone show continuous screens because content will fall below the fold. 
+
+[Here is a pdf of the wireframes series](https://www.google.com)
+
 ### Usability considerations
 
 
