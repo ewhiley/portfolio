@@ -71,6 +71,14 @@ The wireframes were created in Figma. I created wireframes for both the homepage
 [Here is a pdf of the wireframes series](https://github.com/ewhiley/portfolio/blob/master/Portfolio_wireframes.pdf)
 
 ### Usability considerations
+I have considered usability in the design process by: 
+
+*choosing a colour palette that provides good contrast for accessibility
+*creating wireframes of different sizes to account for different screens
+*ensuring good sizing of text and good fonts for readability
+*ensuring good sizing of buttons for easy clicks
+
+I'll continue to consider usability throughout the development process. 
 
 
 ## Description of the website
