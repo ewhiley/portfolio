@@ -40,7 +40,13 @@ My mood board reflects this idea with:
 ![Image of mood board](https://github.com/ewhiley/portfolio/blob/master/Portfolio_mood_board.png)
 
 ### Colour schemes
-To create my colour scheme I uploaded one of the images from the moodboard into the 
+To create my colour scheme I uploaded one of the images from the moodboard into the coolors website and clicked auto-generate until I found one that would work. This website not only generates the palette from colours in the photograph but only generates colours that work well together so you can feel safe the colours will be appealing to the user.
+
+https://coolors.co/
+
+
+
+
 
 ### Fonts
 
