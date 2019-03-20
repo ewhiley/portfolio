@@ -49,9 +49,7 @@ This website not only generates the palette from colours in the photograph but o
 
 https://coolors.co/
 
-![Image of colour palette](https://github.com/ewhiley/portfolio/blob/master/Portfolio_mood_board.png)
-
-
+![Image of colour palette](https://github.com/ewhiley/portfolio/blob/master/colour_schemes.png)
 
 ### Fonts
 
