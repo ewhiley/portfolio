@@ -27,12 +27,25 @@ The Trello board helped me keep track of all the tasks required for the assessme
 
 ## Design documentation
 ### Design process
-My design idea takes inspiration from the Bower bird
+My design idea takes inspiration from the Bower bird. These hard-working and industrious birds are black with a tinge of blue. 
+
+They are known for their hardworking nature, and for building strong, simple and elegant nests and then decorating them with bright blue objects to create a striking point of difference from the other birds. 
+
+My mood board reflects this idea with: 
+- lots of nature 
+- simple, strong elegance with lots of black and white 
+- tinges of striking bright blue to stand out from the black and white
 
 ### Mood board
+![Image of mood board (https://github.com/ewhiley/portfolio/blob/master/Portfolio-mood-board.pdf)
+
 ### Colour schemes
+To create my colour scheme I uploaded one of the images from the moodboard into the 
+
 ### Fonts
+
 ### Wireframes
+
 ### Usability considerations
 
 
