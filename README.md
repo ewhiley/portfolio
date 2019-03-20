@@ -59,7 +59,7 @@ To fit in with the themes discussed above, I've chosen fonts that are strong, si
 
 **Open Sans:** for body font because it is clean, very readable and provides a good complementary font to Source Sans Pro
 
-**Bitter:** because it complements the other two fonts but its elegant serifs provide a good point of different for headings and feature text. 
+**Bitter:** because it complements the other two fonts but its elegant serifs provide a good point of difference for headings and feature text. 
 
 ![Image of fonts](https://github.com/ewhiley/portfolio/blob/master/fonts.png)
 
@@ -74,8 +74,11 @@ The wireframes were created in Figma. I created wireframes for both the homepage
 I have considered usability in the design process by: 
 
 *choosing a colour palette that provides good contrast for accessibility
+
 *creating wireframes of different sizes to account for different screens
+
 *ensuring good sizing of text and good fonts for readability
+
 *ensuring good sizing of buttons for easy clicks
 
 I'll continue to consider usability throughout the development process. 
