@@ -31,16 +31,16 @@ My design idea takes inspiration from the Bower bird. These hard-working and ind
 
 They are known for their hardworking nature, and for building strong, simple and elegant nests and then decorating them with bright blue objects to create a striking point of difference from the other birds. 
 
-My mood board reflects this idea with: 
+My moodboard reflects this idea with: 
 - lots of nature 
 - simple, strong elegance with lots of black and white 
 - tinges of striking bright blue to stand out from the black and white
 
-### Mood board
+### Moodboard
 
-I created my mood board with milanote: https://app.milanote.com/1H64Hp1OoNfM2t
+I created my moodboard with milanote: https://app.milanote.com/1H64Hp1OoNfM2t
 
-![Image of mood board](https://github.com/ewhiley/portfolio/blob/master/Portfolio_mood_board.png)
+![Image of moodboard](https://github.com/ewhiley/portfolio/blob/master/Portfolio_mood_board.png)
 
 ### Colour schemes
 To create my colour scheme I uploaded one of the images from the moodboard into the coolors website and clicked auto-generate until I found one that would work. This website not only generates the palette from colours in the photograph but only generates colours that work well together so you can feel safe the colours will be appealing to the user.
