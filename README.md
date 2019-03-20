@@ -53,6 +53,12 @@ https://coolors.co/
 
 ### Fonts
 
+To fit in with the themes discussed above, I've chosen fonts that are strong, simple and elegant. 
+
+**Source Sans Pro:** because it is strong, clean and makes a good heading font
+**Open Sans:** for body font because it is clean, very readable and provides a good complementary font to Source Sans Pro
+**Bitter:** because it complements the other two fonts but its elegant serifs provide a good point of different for headings and feature text. 
+
 ### Wireframes
 
 ### Usability considerations
