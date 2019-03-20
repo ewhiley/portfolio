@@ -22,7 +22,7 @@ Monday | Presentation?
 ### Screenshots of Trello board(s)
 The Trello board helped me keep track of all the tasks required for the assessment. 
 
-![Image of Trello board showing tasks underway, completed and yet to be completed](https://github.com/ewhiley/portfolio/blob/master/Screen%20Shot%202019-03-19%20at%206.11.09%20pm.png)
+![Image of Trello board showing tasks underway, completed and yet to be completed](https://github.com/ewhiley/portfolio/blob/master/trello%20board.png)
 
 
 ## Design documentation
