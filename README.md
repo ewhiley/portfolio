@@ -61,7 +61,7 @@ To fit in with the themes discussed above, I've chosen fonts that are strong, si
 
 **Bitter:** because it complements the other two fonts but its elegant serifs provide a good point of different for headings and feature text. 
 
-![Image of fonts](https://github.com/ewhiley/portfolio/blob/master/colour_schemes.png)
+![Image of fonts](https://github.com/ewhiley/portfolio/blob/master/fonts.png)
 
 
 ### Wireframes
