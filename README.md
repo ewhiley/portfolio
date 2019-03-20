@@ -27,6 +27,8 @@ The Trello board helped me keep track of all the tasks required for the assessme
 
 ## Design documentation
 ### Design process
+My design idea takes inspiration from the Bower bird
+
 ### Mood board
 ### Colour schemes
 ### Fonts
