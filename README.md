@@ -37,6 +37,9 @@ My mood board reflects this idea with:
 - tinges of striking bright blue to stand out from the black and white
 
 ### Mood board
+
+I created my mood board with milanote: https://app.milanote.com/1H64Hp1OoNfM2t
+
 ![Image of mood board](https://github.com/ewhiley/portfolio/blob/master/Portfolio_mood_board.png)
 
 ### Colour schemes
