@@ -37,7 +37,7 @@ My mood board reflects this idea with:
 - tinges of striking bright blue to stand out from the black and white
 
 ### Mood board
-![Image of mood board](https://github.com/ewhiley/portfolio/blob/master/Portfolio-mood-board.pdf)
+![Image of mood board](https://github.com/ewhiley/portfolio/blob/master/Portfolio_mood_board.png)
 
 ### Colour schemes
 To create my colour scheme I uploaded one of the images from the moodboard into the 
