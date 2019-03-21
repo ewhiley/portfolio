@@ -13,11 +13,12 @@ https://github.com/ewhiley/portfolio
 
 Date | Project task
 ------------ | -------------
-Wednesday 20 March | Complete moodboard, wireframes, set up github repo and trello board
-Thursday 21 March | Website development and complete description of website
-Friday 22 March | Website development and complete description of website
-Sat 23 & Sun 24 March | Deployment, testing, completion of Readme
-Monday | Presentation?
+Day 1 | Complete moodboard, wireframes, set up github repo and trello board | Completed
+Day 2 | Website development |
+Day 3 | Website development |
+Day 4 | Website development and complete description of website |
+Day 5 | Deployment, testing, completion of Readme |
+
 
 ### Screenshots of Trello board(s)
 The Trello board helped me keep track of all the tasks required for the assessment. 
