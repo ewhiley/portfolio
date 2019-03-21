@@ -1,0 +1,23 @@
+.button {
+  width: 200;
+  padding: 10px 10px;
+  background: black;
+  border-radius: 6px;
+  margin: 10px 0px;
+  color: white;
+}
+
+.button:hover {
+  background: #0CA7EE;
+  color: black;
+}
+
+.button a {
+  text-decoration: none;
+  color: white;
+}
+
+.button a:hover {
+  text-decoration: none;
+  color: black;
+}
