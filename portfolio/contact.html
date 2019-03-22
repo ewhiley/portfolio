@@ -12,36 +12,42 @@
     <header>
         <h2><a href="#"><img src="img/logo.png" alt="logo"  ></a></h2>
         <nav>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Skills</a></li>
-          <li><a href="#">Contact</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/#about">About</a></li>
+            <li><a href="/#skills">Skills</a></li>
+            <li><a href="/contact.html">Contact</a></li>
         </nav>
       </header>
 
       <div class="container">  
-          <form id="contact" action="" method="post">
+          <form id="contact" action="https://formspree.io/ejwhiley29@gmail.com" method="POST">
             <h3>Contact</h3>
             <h4> Please complete the form below to get in touch.</h4>
             <fieldset>
-              <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+              <input placeholder="Your name" type="text" name="name" tabindex="1" required autofocus>
             </fieldset>
             <fieldset>
-              <input placeholder="Your email address" type="email" tabindex="2" required>
+              <input placeholder="Your email address" type="email" name="_replyto" tabindex="2" required>
             </fieldset>
             <fieldset>
-              <input placeholder="Your phone number" type="tel" tabindex="3" required>
+              <input placeholder="Your phone number" type="tel" name="telephone" tabindex="3" required>
             </fieldset>
             <fieldset>
-              <textarea placeholder="Type your message here..." tabindex="4" required></textarea>
+              <textarea placeholder="Type your message here..." name="message" tabindex="4" required></textarea>
             </fieldset>
             <fieldset>
-              <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+              <button name="submit" type="submit" value="Send" id="contact-submit" data-submit="...Sending">Submit</button>
             </fieldset>
-          </form>
-         
-          
+          </form>  
         </div>
+
+        <footer>
+            <ul>
+              <li><a href="/contact.html"><i class="fa fa-envelope-square"></i></a></li>
+              <li><a href="https://www.linkedin.com/in/elizabeth-whiley/"><i class="fa fa-linkedin-square"></i></a></li>
+              <li><a href="https://github.com/ewhiley"><i class="fa fa-github-square"></i></a></li>
+            </ul>
+          </footer>
   
 </body>
 </html>

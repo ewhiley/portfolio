@@ -3,6 +3,7 @@
 @import './skills.css';
 @import './footer.css';
 @import './contact.css';
+@import './banner.css';
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 @import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans|Source+Sans+Pro');
 
@@ -67,8 +68,7 @@ div{
 }
 
 div h3.title{
-	color: #414a4f;
-	text-transform: capitalize; 
+	color: #414a4f; 
 	font: bold 32px 'Open Sans', sans-serif;
 	margin-bottom: 35px;
 	text-align: center;
@@ -80,6 +80,9 @@ div p{
 	margin-bottom: 35px;
 	padding: 0 20px;
 	line-height: 2;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	color:#252525;
 }
 
 
@@ -87,62 +90,24 @@ div p{
 	background-color: #fff;
 }
 
-/* Banner Section */
-
-@keyframes fadeInUp {
-  from {
-      transform: translate3d(0,40px,0)
+@keyframes fadeInDown {
+  0% {
+     opacity: 0;
+     transform: translateY(-20px);
   }
-
-  to {
-      transform: translate3d(0,0,0);
-      opacity: 1
+  100% {
+     opacity: 1;
+     transform: translateY(0);
   }
-}
-
-@keyframes h1 {
+} 
+@keyframes i{
   from {color: black;}
   to {color:white;}
 }
-
-.hero{
-	position: relative;
-	justify-content: center;
-	min-height: 100vh;
+.arrow i{
+	font-size: 75px;
 	color: #fff;
-	text-align: center;
-}
-
-.hero .background-image{
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background-size: cover;
-	z-index: -1;
-}
-
-.hero h1{
-  font: bold 60px 'Bitter', serif;
-  letter-spacing: 4px;
-  margin-bottom: 15px;
-  animation-name: fadeInUp, h1;
+	animation-name: fadeInDown;
   animation-duration: 5s;
   animation-iteration-count: 1;
 }
-
-@media (max-width: 800px){
-
-	.hero{
-		min-height: 100vh;
-	}
-
-	.hero h1{
-		font-size: 48px;
-	}
-
-}
-
-
-

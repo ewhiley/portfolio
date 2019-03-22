@@ -1,0 +1,83 @@
+/* Banner Section */
+
+@keyframes fadeInUp {
+  from {
+      transform: translate3d(0,40px,0)
+  }
+
+  to {
+      transform: translate3d(0,0,0);
+      opacity: 1
+  }
+}
+
+@keyframes h1 {
+  from {color: black;}
+  to {color:white;}
+}
+
+
+.hero{
+	position: relative;
+  justify-content: center;
+	min-height: 100vh;
+	color: #fff;
+  text-align: center;
+}
+
+.hero .background-image{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	z-index: -1;
+}
+
+.hero h1{
+  font: bold 60px 'Bitter', serif;
+  letter-spacing: 4px;
+  margin-bottom: 5px;
+  animation-name: fadeInUp, h1;
+  animation-duration: 5s;
+  animation-iteration-count: 1;
+  padding: 100px 0px;
+}
+
+
+@media (max-width: 800px){
+
+	.hero{
+		min-height: 100vh;
+	}
+
+	.hero h1{
+		font-size: 48px;
+	}
+
+}
+
+@keyframes fadeInDown {
+  0% {
+     opacity: 0;
+     transform: translateY(-20px);
+  }
+  100% {
+     opacity: 1;
+     transform: translateY(0);
+  }
+} 
+@keyframes i{
+  from {color: black;}
+  to {color:white;}
+}
+.hero .arrow i{
+	font-size: 75px;
+	color: #fff;
+	animation-name: fadeInDown;
+  animation-duration: 5s;
+  animation-iteration-count: 1;
+}
+
+

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,13 +9,17 @@
   <link rel="stylesheet" media="screen" href="styles/style.css">
   <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 </head>
+
 <body>
+
+  <a name="home"></a>
+
 	<header>
-		<h2><a href="#"><img src="img/logo.png" alt="logo"  ></a></h2>
+		<h2><a href="#home"><img src="img/logo.png" alt="logo"  ></a></h2>
 		<nav>
-			<li><a href="#">Home</a></li>
-			<li><a href="#">About</a></li>
-      <li><a href="#">Skills</a></li>
+			<li><a href="#home">Home</a></li>
+			<li><a href="#about">About</a></li>
+      <li><a href="#skills">Skills</a></li>
       <li><a href="/contact.html">Contact</a></li>
 		</nav>
   </header>
@@ -24,40 +29,65 @@
     <div class="animated animatedFadeInUp fadeInUp">
       <h1>Elizabeth Whiley</h1>
     </div>
-	</div>
-
+    <div class="arrow animated animatedFadeInDown fadeInDown">
+        <a href="#about"><i class="fa fa-chevron-down"></i></a>
+    </div>
+  </div>
+  
+  <a name="about"></a>
+  
   <div class="about">
 		<h3 class="title">About me</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id felis et ipsum bibendum ultrices. Morbi vitae pulvinar velit. Sed aliquam dictum sapien, id sagittis augue malesuada eu.</p>
-    <div class="button"><a href="#">Work and study history</a></div>
+    <p>I have a background in communications, digital content and user experience. Right now, I am excited to be learning to become a software developer at Coder Academy. I am inspired to create great digital products that are both accessible and enjoyable for everyone. </p>
+    <div class="button"><a href="https://www.linkedin.com/in/elizabeth-whiley/">Work and study history</a></div>
   </div>
+
+  <a name="skills"></a>
 
   <div class="skills">
 		<h3 class="title">Skills</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id felis et ipsum bibendum ultrices. Morbi vitae pulvinar velit. Sed aliquam dictum sapien, id sagittis augue malesuada eu.</p>
+		<p>Along with my skills in communications and content design, I have added a number of technical skills to my toolbelt while at Coder Academy. Here are a few, but I am adding more each day.</p>
 		<hr>
 
 		<div class="flex-skill-icons">
 				<i class="devicon-ruby-plain-wordmark"></i>
-				<i class="devicon-html5-plain-wordmark"></i>
+        <i class="devicon-html5-plain-wordmark"></i>
+        <i class="devicon-css3-plain-wordmark"></i>
 				<i class="devicon-bootstrap-plain-wordmark"></i>
-      
-      
         <i class="devicon-git-plain-wordmark"></i>
-      
-      
         <i class="devicon-github-plain-wordmark"></i>
-      
-      
         <i class="devicon-drupal-plain-wordmark"></i>
-      
 		</div>
-	</div>
+  </div>
+
+  <!-- <div class="contact">  
+      <form id="contact" action="https://formspree.io/ejwhiley29@gmail.com" method="POST">
+        <h3>Contact</h3>
+        <h4> Please complete the form below to get in touch.</h4>
+        <fieldset>
+          <input placeholder="Your name" type="text" name="name" tabindex="1" required autofocus>
+        </fieldset>
+        <fieldset>
+          <input placeholder="Your email address" type="email" name="_replyto" tabindex="2" required>
+        </fieldset>
+        <fieldset>
+          <input placeholder="Your phone number" type="tel" name="telephone" tabindex="3" required>
+        </fieldset>
+        <fieldset>
+          <textarea placeholder="Type your message here..." name="message" tabindex="4" required></textarea>
+        </fieldset>
+        <fieldset>
+          <button name="submit" type="submit" value="Send" id="contact-submit" data-submit="...Sending">Submit</button>
+        </fieldset>
+      </form>  
+    </div> -->
+
+  
   <footer>
 		<ul>
-			<li><a href="#"><i class="fa fa-envelope-square"></i></a></li>
-			<li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-			<li><a href="#"><i class="fa fa-github-square"></i></a></li>
+			<li><a href="/contact.html"><i class="fa fa-envelope-square"></i></a></li>
+			<li><a href="https://www.linkedin.com/in/elizabeth-whiley/"><i class="fa fa-linkedin-square"></i></a></li>
+			<li><a href="https://github.com/ewhiley"><i class="fa fa-github-square"></i></a></li>
 		</ul>
 	</footer>
 </body>
