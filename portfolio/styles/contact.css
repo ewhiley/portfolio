@@ -19,14 +19,16 @@ body {
 	font-size: 12px;
 	line-height:30px;
 	color:#777;
-	background:#0CF;
+	background:#0CA7EE;
+	
 }
 
 .container {
-	max-width:800px;
+	/* max-width:800px; */
 	width:100%;
 	margin:100px auto;
-	position:relative;
+	position:center;
+	
 	
 }
 
@@ -48,7 +50,7 @@ body {
 #contact h4 {
 	margin:5px 0 15px;
 	display:block;
-	font-size:13px;
+	font-size:15px;
 }
 
 fieldset {
@@ -84,7 +86,7 @@ fieldset {
 	cursor:pointer;
 	width:100%;
 	border:none;
-	background:#0CF;
+	background:#0CA7EE;
 	color:#FFF;
 	margin:0 0 5px;
 	padding:10px;
