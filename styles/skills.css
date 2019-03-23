@@ -1,0 +1,16 @@
+.skills{
+  background-color: #f7f7f7;
+}
+
+.skills .flex-skill-icons {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: center; 
+  flex-direction: row;  
+  font-size: 75px;
+  color: #0CA7EE;
+}
+
+.skills .flex-skill-icons i {
+  margin: 20px;
+}
