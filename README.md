@@ -154,6 +154,31 @@ Built using HTML and CSS, deployed using Github in conjunction with Netlify, wit
 
 
 ## Short Answer Q&A - Include short answers to the following questions,
+
 ### Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+
+Many say the internet began in 1969 with ARPANET (Advanced Research Projects Agency Network) that connected UCLA to Stanford. However, a key event happened in 1982 with the launch of TCP/IP. This created a standard protocol (a procedure that governs how data is transmitted) for computers to exchange information and created the internet we know today. 
+
+In 1990, Tim Berners-Lee created HTML which is still used today and in 1991 the CERN developed the World Wide Web to the public. During the 90s, more and more websites were created by organisations as more and more users went online.
+
+Various search engines were created which helped people search and navigate the web. In 1998 the Google search engine was launched and is the most widely used search engine today.
+
 ### Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+
+We use web browsers as an application to view and access websites. Commonly known web browsers include Google Chrome, Mozilla Firefox, Microsoft Internet Explorer and Apple Safari.
+
+A Web server is a computer connected to the internet that runs software that enables it to provide information to users. When we type a url (web address) into our web browser the web server is what serves up the webpage to us. 
+
+Domain names are words used in urls to identify specific Internet Protocol (IP) addresses. Since IP addresses are made up of a combination of numbers, domain names make these addresses more memorable by replacing them with words.
+
+Domain Name System (DNS) is the system that translates the domain names that we type into our web browsers into IP addresses so our browsers can load the content for us.
+
 ### Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+
+An important development for the web has been the W3C standards for accessibility. 
+
+The standards support social inclusion by promoting the creation of technology in a way that allows for people with disabilities, as well as older people, and people in rural areas or developing countries to be able to access and use it. 
+
+These standards positively shape how web products are created by providing guidelines for developers to ensure their products meet these standards. By making simple provisions in the development process we can remove barriers for people with special needs. This includes providing alt text, as well as ensuring websites can be accessed by keyboard-only, and by screen readers. 
+
+Without these standards the web would not be able to be as widely used as it is today.
