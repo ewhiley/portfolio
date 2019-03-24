@@ -116,37 +116,37 @@ The sitemap consists of two pages.
 
 #### Desktop - Homepage
 
-![Image of desktop homepage](https://github.com/ewhiley/portfolio/blob/master/home - desktop.png)
+![Image of desktop homepage](https://github.com/ewhiley/portfolio/blob/master/home-desktop.png)
 
 #### Desktop - About Section
 
-![Image of desktop about section](https://github.com/ewhiley/portfolio/blob/master/about - desktop.png)
+![Image of desktop about section](https://github.com/ewhiley/portfolio/blob/master/about-desktop.png)
 
 #### Desktop - Skills and Bottom Nav
 
-![Image of Desktop Skills and Bottom Nav](https://github.com/ewhiley/portfolio/blob/master/skills - desktop.png)
+![Image of Desktop Skills and Bottom Nav](https://github.com/ewhiley/portfolio/blob/master/skills-desktop.png)
 
 #### Desktop - Contact Page
 
-![Image of Desktop Contact Page](https://github.com/ewhiley/portfolio/blob/master/contact - desktop.png)
+![Image of Desktop Contact Page](https://github.com/ewhiley/portfolio/blob/master/contact-desktop.png)
 
 ### Screenshots - Mobile
 
 #### Mobile - Homepage
 
-![Image of Mobile homepage](https://github.com/ewhiley/portfolio/blob/master/home - mobile.png)
+![Image of Mobile homepage](https://github.com/ewhiley/portfolio/blob/master/home-mobile.png)
 
 #### Mobile - About Section
 
-![Image of Mobile about section](https://github.com/ewhiley/portfolio/blob/master/about - mobile.png)
+![Image of Mobile about section](https://github.com/ewhiley/portfolio/blob/master/about-mobile.png)
 
 #### Mobile - Skills and Bottom Nav
 
-![Image of Mobile Skills and Bottom Nav](https://github.com/ewhiley/portfolio/blob/master/skills - mobile.png)
+![Image of Mobile Skills and Bottom Nav](https://github.com/ewhiley/portfolio/blob/master/skills-mobile.png)
 
 #### Mobile - Contact Page
 
-![Image of Mobile Contact Page](https://github.com/ewhiley/portfolio/blob/master/contact - mobile.png)
+![Image of Mobile Contact Page](https://github.com/ewhiley/portfolio/blob/master/contact-mobile.png)
 
 ### Tech stack (e.g. html, css, deployment platform, etc)
 Built using HTML and CSS, deployed using Github in conjunction with Netlify, with a domain from VentraIP. 
