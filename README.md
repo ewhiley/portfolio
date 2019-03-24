@@ -98,22 +98,18 @@ Potential employers.
 ### Functionality / features
 The website includes the following functionality and features:
 
-- the website home page features a hero image from unsplash and css animation
 - built using flexbox to make it responsive across different sized devices
+- the website home page features a hero image from unsplash and css animation
 - about section and skills section including developer icons and a button linked to an external LinkedIn page
 - top navigation includes a logo that links to home page, as well as text hyperlinks to home, about, skills and contact
 - the about and skills sections are linked with anchors, while the contact form has its own page
 - the bottom navigation includes icons linked to contact, github and LinkedIn
 - the contact form uses formspree to send input directly to my email address
 
-
-
 ### Sitemap
 
 The sitemap consists of two pages. 
- 
-
-
+![Image of sitemap](https://github.com/ewhiley/portfolio/blob/master/sitemap.png)
 
 ### Screenshots
 
