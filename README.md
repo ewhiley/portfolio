@@ -1,9 +1,8 @@
 # Portfolio
-Repository for portfolio project.
-This project was to build a portfolio website to showcase myself as an aspiring developer. 
+Repository for portfolio project. 
 
 ## Published portfolio website
-
+https://www.elizabethwhiley.co
 
 ## Github repository
 https://github.com/ewhiley/portfolio
@@ -72,25 +71,43 @@ The wireframes were created in Figma. I created wireframes for both the homepage
 [Here is a pdf of the wireframes series](https://github.com/ewhiley/portfolio/blob/master/Portfolio_wireframes.pdf)
 
 ### Usability considerations
-I have considered usability in the design process by: 
 
-*choosing a colour palette that provides good contrast for accessibility
+I have considered usability and accessibility in the design and development process. This includes:
 
-*creating wireframes of different sizes to account for different screens
+* A colour palette that provides good contrast for accessibility
 
-*ensuring good sizing of text and good fonts for readability
+* Wireframes of different sizes to account for different screens
 
-*ensuring good sizing of buttons for easy clicks
+* Good sizing of text and good fonts for readability
 
-I'll continue to consider usability throughout the development process. 
+* Good sizing of buttons for easy clicks
 
+* No images used are informative (they are all decorative) so alt text was not necessary on images 
 
-## Description of the website
+* Links are keyboard and screenreader accessible 
+
+## Description of the website 
+
 ### Purpose
+
+This project was to build a portfolio website to showcase myself as an aspiring developer, including information about my background, skills, work and study history, and ability to contact me.
+
 ### Functionality / features
+The website includes the following functionality and features
+
+
+
 ### Sitemap
+
+The sitemap consists of two pages. 
+ 
+
+
+
 ### Screenshots
+
 ### Target audience
+
 ### Tech stack (e.g. html, css, deployment platform, etc)
 
 
