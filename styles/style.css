@@ -85,29 +85,8 @@ div p{
 	color:#252525;
 }
 
-
 .about{
 	background-color: #fff;
 }
 
-@keyframes fadeInDown {
-  0% {
-     opacity: 0;
-     transform: translateY(-20px);
-  }
-  100% {
-     opacity: 1;
-     transform: translateY(0);
-  }
-} 
-@keyframes i{
-  from {color: black;}
-  to {color:white;}
-}
-.arrow i{
-	font-size: 75px;
-	color: #fff;
-	animation-name: fadeInDown;
-  animation-duration: 5s;
-  animation-iteration-count: 1;
-}
+

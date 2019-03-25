@@ -42,9 +42,8 @@
   animation-name: fadeInUp, h1;
   animation-duration: 5s;
   animation-iteration-count: 1;
-  padding: 100px 0px;
+  padding-top: 100px;
 }
-
 
 @media (max-width: 800px){
 
@@ -55,10 +54,9 @@
 	.hero h1{
 		font-size: 48px;
 	}
-
 }
 
-@keyframes fadeInDown {
+@keyframes fadeInDown{
   0% {
      opacity: 0;
      transform: translateY(-20px);
@@ -68,16 +66,19 @@
      transform: translateY(0);
   }
 } 
+
 @keyframes i{
   from {color: black;}
   to {color:white;}
 }
+
 .hero .arrow i{
 	font-size: 75px;
 	color: #fff;
 	animation-name: fadeInDown;
   animation-duration: 5s;
   animation-iteration-count: 1;
+  padding-bottom: 10px;
 }
 
 
